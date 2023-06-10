@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-sin/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-sin.dir/vfb-sin.cpp.o -c /home/denis/vfb-net/vfb-sin/vfb-sin.cpp",
+  "file": "/home/denis/vfb-net/vfb-sin/vfb-sin.cpp"
+}
+]
